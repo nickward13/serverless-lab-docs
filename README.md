@@ -1,3 +1,3 @@
 # serverless-lab-docs
 
-This repo contains documents used in the Microsoft Serverless and Microservices cloud workshops.
+This repo contains documents used in the Microsoft Serverless cloud workshops.
